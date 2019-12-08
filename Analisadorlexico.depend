@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574355181 source:c:\users\luigi\documents\analisador lexico\codigo\analisadorlexico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

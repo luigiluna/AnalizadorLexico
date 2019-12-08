@@ -1,0 +1,14 @@
+Na linha 1 o caracter 'X' na palavra 'Xv' e invalido
+Na linha 1 o caracter 'Y' na palavra 'Yv' e invalido
+Na linha 12 nao houve fechamento de "
+Na linha 18 a seguinte palavra 'B' não foi reconhecida
+Na linha 19 a seguinte palavra 'B' não foi reconhecida
+Na linha 20 a seguinte palavra ';' não foi reconhecida
+Na linha 21 a seguinte palavra 'Xv' não foi reconhecida
+Na linha 21 a seguinte palavra '\' não foi reconhecida
+Na linha 22 a seguinte palavra 'Yv' não foi reconhecida
+Na linha 22 a seguinte palavra '\' não foi reconhecida
+Na linha 23 a seguinte palavra 'Xv' não foi reconhecida
+Na linha 23 a seguinte palavra 'Yv' não foi reconhecida
+Na linha 23 a seguinte palavra ';' não foi reconhecida
+Na linha 25 a seguinte palavra 'printf' não foi reconhecida
