@@ -20,12 +20,17 @@ print } %
 read 
 to = := 
 --------------------------------------
-Padrao de declaração de variaveis: num
-ex: num var1 var2 var3
+Padrao de declaração de variaveis: num  
+(ex: num var1 var2 var3)
 --------------------------------------
 
-Consideracoes
-O codigo pede o nome e extensão do arquivo a ser analisado.
+Consideracoes:
+
+O codigo pede o nome e extensão do arquivo a ser analisado. 
+
 A validação ou os erros serão escritos no arquivo: validação.txt
+
 As palavras reservadas podem ser alteradas no arquivo: table.txt
+
 O alfabeto e os delimitadores podem ser alterados no propio codigo.
+
